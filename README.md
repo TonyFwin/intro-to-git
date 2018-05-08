@@ -6,3 +6,20 @@
 
 # Git Repository
  - Where all of our snapshots are stored
+
+# Adding multiple files
+- git add *.FILEEXTENSION
+
+
+# Adding all files in directory (including hidden)
+- git add -A (add all files including hidden)
+
+
+# Removing files
+- git reset HEAD <file>
+
+
+# Ignoring files
+- create .gitignore file
+- add files to be ignored to gitignore
+
